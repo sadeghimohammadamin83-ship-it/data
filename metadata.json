@@ -1,0 +1,8 @@
+{
+  "name": "DC Studio - Data Center Architecture Studio",
+  "description": "استودیوی تعاملی و سینمایی طراحی پارامتریک و تجسم سهبعدی معماری دیتاسنتر — Interactive 3D Parametric Data Center Architecture Studio with Exterior, Interior Cutaway, and Server Rack Layout modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
